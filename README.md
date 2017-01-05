@@ -7,6 +7,7 @@
 処理を施した出力ファイルと処理を施す入力ファイルは未アップ.  
 Author : 栢割　隆之  
 Twitter : @kayataka1507  
+
 -------------------------  
 <ol>
   <li>edge_imgCopy</li>
